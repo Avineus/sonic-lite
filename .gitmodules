@@ -1,0 +1,4 @@
+[submodule "sonic-buildimage"]
+	path = sonic-buildimage
+	url = git@github.com:Avineus/sonic-buildimage.git
+	branch = sonic-lite-buildimage
